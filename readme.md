@@ -53,9 +53,9 @@ Open your browser and visit:
 
 - Per-container CPU, RAM, Net I/O, Block I/O
 
-⚠️ Alerts & Warnings
+## ⚠️ Alerts & Warnings
 
-📊 Live updating charts
+## 📊 Live updating charts
 
 ## 📂 Exploring Logs
 
