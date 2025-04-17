@@ -39,16 +39,17 @@ docker run -d \
   -v /sys:/host/sys:ro \
   -v /etc/os-release:/host/etc/os-release:ro \
   netdata/netdata
-2. Access the Dashboard
+```
+## 2. Access the Dashboard
 Open your browser and visit:
-👉 http://localhost:19999
+- 👉 http://localhost:19999
 
-3. What You Can Monitor
-🔧 System Metrics:
+## 3. What You Can Monitor
+## 🔧 System Metrics:
 
 -  CPU, Memory, Disk I/O, Network
 
-🐳 Docker Containers:
+## 🐳 Docker Containers:
 
 - Per-container CPU, RAM, Net I/O, Block I/O
 
@@ -62,7 +63,7 @@ Open your browser and visit:
 - cd /var/log/netdata
 - ls
 
-✅ Deliverables
+## ✅ Deliverables
 
  - Netdata running in Docker
  - Access to http://localhost:19999
@@ -70,3 +71,5 @@ Open your browser and visit:
  - Explored alerts and logs
 
 ## 📸 Screenshot Example
+
+
